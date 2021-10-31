@@ -11,7 +11,7 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 <center><img src="images/fraud_detection.jpg"/></center>
 
 ---
-### Financial-Models-Numerical-Methods
+### Financial-Models-Numerical-Method
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/Financial-Models-Numerical-Methods)
 
